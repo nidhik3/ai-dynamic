@@ -29,10 +29,7 @@
 	font-family: "IBM Plex Sans", sans-serif;
 }
 
-body {
-	/* font-family: "Open Sans", sans-serif; */
-	color: #444444;
-}
+
 
 a {
 	text-decoration: none;
@@ -47,9 +44,17 @@ a:hover {
 
 
 /* ncss */
+body{
+	color:black;
+}
 .heading{
 	text-transform: capitalize;
 	font-size: 50px;
+	font-weight: 100;
+}
+.heading1{
+	text-transform: capitalize;
+	font-size: 25px;
 	font-weight: 100;
 }
 .black {
@@ -579,7 +584,7 @@ section {
 	
 }
 .space {
-	padding: 60px 0;
+	padding: 100px 0;
 	overflow: hidden;
 }
 .mspace {
@@ -812,7 +817,7 @@ section {
 	padding: 0;
 	margin: 0 0 20px 0;
 	font-size: 15px;
-	color: #444444;
+	
 }
 
 @media (min-width: 1200px) {
