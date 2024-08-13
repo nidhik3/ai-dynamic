@@ -406,3 +406,47 @@
 
 </section>
 <!-- insights -->
+ 
+<!-- feedback -->
+<section class="space grey">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="    line-height: 54px;">
+                <p class="heading font mb-0">Feedback —</p>
+                <p class="heading font">
+                    We get</p>
+                 
+            </div>
+            <div class="col-md-6 d-flex flex-column justify-content-end">
+                <p>AI-powered services designed to help your business thrive. Explore our key services below. </p>
+            </div>
+
+        </div>
+
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-5">
+                <p class="heading1 font">Thanks to AI Dynamics' AI-driven digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their innovative AI solutions and ongoing support have been invaluable.</p>
+            </div>
+        </div>
+
+       
+
+        <div class="container" style="padding: 60px 0 0 0;">
+            <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
+                <div class="col-md-9">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
+                        enhanced
+                        efficiency
+                        and growth.</p>
+                </div>
+                <div class="col-md-3">
+                    <a class="black " href="">Get in touch</a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+<!-- feedback -->
