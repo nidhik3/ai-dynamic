@@ -1,62 +1,3 @@
-<style>
-    .building {
-        position: relative;
-    }
-
-    .text1 {
-        position: absolute;
-        top: 8%;
-        left: 53px;
-        color: #fff;
-        /* Text color for contrast */
-        padding: 15px;
-        /* Padding for some space around the text */
-        border-radius: 10px;
-        /* Optional rounded corners */
-    }
-
-    .black-text {
-        color: black;
-    }
-
-    .overlay-container {
-        position: relative;
-        overflow: hidden;
-    }
-
-    .overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgb(255 250 250 / 20%);
-        transition: opacity 0.3s ease;
-        opacity: 1;
-    }
-
-    .overlay-container:hover .overlay {
-        opacity: 0;
-        pointer-events: none;
-    }
-
-    .arrow-icon {
-        display: inline-block;
-        transition: transform 0.3s ease;
-        transform: rotate(-45deg);
-        /* Initial tilt from the left */
-    }
-
-    .overlay-container:hover .arrow-icon {
-        transform: rotate(360deg);
-        /* Rotate to the right on hover */
-    }
-
-    .grey {
-        background-color: rgb(247, 247, 247);
-    }
-</style>
-
 <!-- banner -->
 <section style=" background-image: url('assets/img/leaf.png'); background-repeat: no-repeat;">
     <div class="container content " style="padding-top: 160px;color: black;">
@@ -218,18 +159,250 @@
         </div>
     </div>
 
+
+    <!-- contact banner -->
     <section>
-        <div class="container grey">
-            <div class="row" style="padding: 60px 0;">
-                <div class="col-md-12">
-                    <p>Contact us today to learn more about our AI solutions and start your journey towards enhanced
+        <div class="container">
+            <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
+                <div class="col-md-9">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
+                        enhanced
                         efficiency
                         and growth.</p>
+                </div>
+                <div class="col-md-3">
+                    <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    <a class="black " href="">View case studies</a>
                 </div>
             </div>
         </div>
     </section>
+    <!-- contact banner -->
 
 
 </section>
 <!-- impact -->
+
+<!-- solutions -->
+<section class="space grey">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="    line-height: 54px;">
+                <p class="heading font mb-0">Solutions —</p>
+                <p class="heading font">
+                    We offer</p>
+            </div>
+            <div class="col-md-6 d-flex flex-column justify-content-end">
+                <p>Read their testimonials to see how our cutting-edge AI solutions have driven growth, efficiency, and
+                    success across various industries. </p>
+            </div>
+
+        </div>
+
+        <div class="row pt-4">
+            <div class="col-md-6">
+                <div class="wbox d-flex justify-content-center ">
+                    <div class="col-md-2 text-center">
+                        <h3 class="font" style="font-size: 40px;width: 70%;">01</h3>
+                    </div>
+                    <div class="col-md-9">
+                        <h6>AI-Driven Software Development</h6>
+                        <p style="font-size: 14px;">Tailored AI solutions to meet your specific business needs, ensuring
+                            seamless integration and
+                            maximum efficiency. Our AI-driven software development services focus on creating custom
+                            applications that leverage the power of AI to automate processes, enhance decision-making,
+                            and
+                            drive innovation within your organization.</p>
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-md-3">
+                                <a href="">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="wbox d-flex justify-content-center ">
+                    <div class="col-md-2 text-center">
+                        <h3 class="font" style="font-size: 40px;">02</h3>
+                    </div>
+                    <div class="col-md-9">
+                        <h6>AI Consulting</h6>
+                        <p style="font-size: 14px;">Expert advice to help you navigate the complexities of AI technology
+                            and make informed decisions that drive growth. Our AI consulting services provide strategic
+                            guidance on implementing AI technologies, optimizing existing processes, and ensuring that
+                            your business stays ahead in a rapidly evolving tech landscape.</p>
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-md-3">
+                                <a href="">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="row pt-4">
+            <div class="col-md-6">
+                <div class="wbox d-flex justify-content-center ">
+                    <div class="col-md-2 text-center">
+                        <h3 class="font" style="font-size: 40px;width: 70%;">03</h3>
+                    </div>
+                    <div class="col-md-9">
+                        <h6>AI Digital Transformation</h6>
+                        <p style="font-size: 14px;">Helping your business embrace AI tools and processes to stay
+                            competitive in the modern market. Our digital transformation services with AI focus on
+                            integrating AI-driven solutions into your business operations, enabling you to leverage
+                            advanced technologies for improved efficiency, innovation, and growth.</p>
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-md-3">
+                                <a href="">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="wbox d-flex justify-content-center ">
+                    <div class="col-md-2 text-center">
+                        <h3 class="font" style="font-size: 40px;">04</h3>
+                    </div>
+                    <div class="col-md-9">
+                        <h6>AI-Enhanced Cybersecurity</h6>
+                        <p style="font-size: 14px;">Protecting your business from digital threats with robust AI-driven
+                            security solutions. Our AI-enhanced cybersecurity services offer advanced threat detection,
+                            real-time monitoring, and automated response systems to safeguard your data and ensure the
+                            integrity of your business operations.</p>
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-md-3">
+                                <a href="">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container" style="padding: 60px 0 0 0;">
+            <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
+                <div class="col-md-9">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
+                        enhanced
+                        efficiency
+                        and growth.</p>
+                </div>
+                <div class="col-md-3">
+                    <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    <a class="black " href="">View case studies</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+<!-- solutions -->
+
+<!-- insights -->
+<section class="space ">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="    line-height: 54px;">
+                <p class="heading font mb-0">Insights —</p>
+                <p class="heading font">
+                    We share</p>
+            </div>
+            <div class="col-md-6 d-flex flex-column justify-content-end">
+                <p>
+                    Insights, news, and updates on the latest trends in AI technology and how they can benefit your
+                    business. All in our blog. </p>
+            </div>
+
+        </div>
+        <div class="row pt-5">
+            <div class="col-md-3 p-0 d-flex align-items-end" style="width: 16%;">
+                <p>Subscribe to our weekly blog</p>
+            </div>
+            <div class="col-md-9 d-flex ">
+                <div class="col-md-11 ">
+                    <input type="text" placeholder="name@gmail.com" class="subscribe">
+                </div>
+                <div class="col-md-1  d-flex align-items-center">
+                    <a class="black " href=""
+                        style="height: 6vh;padding: 10px 8px 19px 8px; margin-left: 5px;">Subscribe </a>
+                </div>
+
+            </div>
+        </div>
+
+
+
+    </div>
+    
+    <div class="container">
+        <div class="row pt-5 d-flex justify-content-between">
+
+            <div class="col-md-4 p-0 ibox overlay-container">
+                <img src="assets/img/insight1.avif" alt="" class="iimg">
+                <h5 class="pt-3 font heading1">Transform Your Business with Innovative Tech Solutions</h5>
+                <p class="para">Welcome to AI Dynamics, where we specialize in helping small to medium-sized
+                    non-tech companies and tech startups streamline their operations with cuttin...</p>
+                <div class="row">
+                    <div class="col-md-3">
+                        <a href="#" class="ra">Read article</a>
+                    </div>
+                </div>
+                <div class="overlay"></div>
+            </div>
+            
+            <div class="col-md-4 p-0 ibox overlay-container">
+                <img src="assets/img/insight2.avif" alt="" class="iimg">
+                <h5 class=" pt-3 font heading1">Starting and Growing a Career in Web Design</h5>
+                <p class="para">Welcome to AI Dynamics, where we specialize in helping small to medium-sized
+                    non-tech companies and tech startups streamline their operations with cuttin...</p>
+                <div class="row ">
+                    <div class="col-md-3">
+                        <a href="" class="ra">Read article</a>
+                    </div>
+                </div>
+                <div class="overlay"></div>
+            </div>
+            <div class="col-md-4 p-0 ibox overlay-container">
+                <img src="assets/img/insight3.avif" alt="" class="iimg">
+                <h5 class=" pt-3 font heading1">Create a Landing Page That Performs Great</h5>
+                <p class="para">Welcome to AI Dynamics, where we specialize in helping small to medium-sized
+                    non-tech companies and tech startups streamline their operations with cuttin...</p>
+                <div class="row ">
+                    <div class="col-md-3">
+                        <a href="" class="ra">Read article</a>
+                    </div>
+                </div>
+                <div class="overlay"></div>
+            </div>
+         
+
+        </div>
+    </div>
+
+    <div class="container pt-5">
+        <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
+            <div class="col-md-9">
+                <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
+                    enhanced
+                    efficiency
+                    and growth.</p>
+            </div>
+            <div class="col-md-3">
+                <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                <a class="black " href="">View case studies</a>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+<!-- insights -->
