@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
+  <link href="assets/img/favicon.png" rel="icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -32,6 +32,12 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/responsive.css">
 
+  <!-- -----slider------ -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+  <!-- -----slider------ -->
+
   <!-- =======================================================
   * Template Name: Butterfly
   * Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
@@ -39,6 +45,11 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style>
+    .scrollto{
+      color:black;
+    }
+  </style>
 </head>
 
 <body>
@@ -48,7 +59,7 @@
     <div class="container d-flex align-items-center justify-content-between md-pl-5">
 
       <a href="Main font" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid">
-        ai dynamics</a>
+        ENCOME</a>
 
   
 

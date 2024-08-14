@@ -1,17 +1,15 @@
+
 <!-- banner -->
 <section style=" background-image: url('assets/img/leaf.png'); background-repeat: no-repeat;">
     <div class="container content " style="padding-top: 160px;color: black;">
-        <p class="font" style="font-size: 65px;">Transform Your Business with Innovative Tech Solutions</p>
+        <p class="font" style="font-size: 65px;">We Discover and Develop AI Ventures .</p>
         <div class="row">
             <div class="col-md-12 building">
-                <img src="assets/img/img1.avif" alt="" style="height: 90%; width: 100%; border-radius: 20px">
+                <img src="assets/img/img1.avif" alt="" style="height: 90%; width: 100%; border-radius: 20px" class="buildingImg">
                 <div class="col-md-5 text1">
-                    <h4 class="heading font">Empowering Small Businesses And Startups To Thrive In The Digital Age</h4>
+                    <h4 class="heading font">Empowering Founders to Build the Outstanding AI Companies of Tomorrow.</h4>
                     <hr style="opacity: 2.25;">
-                    <p class="" style="font-family: Dosis, sans-serif;">Welcome to AI Dynamics, where we specialize in
-                        helping small to medium-sized non-tech companies and tech startups streamline their operations
-                        with cutting-edge technology. Our expert team is dedicated to providing innovative solutions
-                        that drive growth and efficiency for your business.</p>
+                    <p class="" style="font-family: Dosis, sans-serif;">At ENCOME we collaborate closely with AI startups from inception to launch and beyond.We are deeply involved in every, transforming ideas into products, witnessing their real-world applications, and ensuring their successful introduction to the market.</p>
                     <div class="pt-3">
                         <a class="black " href="">Learn More</a>
                         <a class="white ml-3 " href="" style=" margin-left: 10px;">Contact us</a>
@@ -47,14 +45,12 @@
     <div class="container">
         <div class="row">
             <p style="line-height: 57px;">
-                <span class=" heading font black-text">AI Dynamics </span> <span class="heading font"
-                    style="color:#7c7a7a"> is dedicated to providing AI-powered technology solutions that drive growth
-                    and efficiency for businesses of all sizes.</span>
+                <span class=" heading font black-text">Businesses </span> <span class="heading font"
+                    style="color:#7c7a7a"> of All Sizes with ENCOME differs from accelerators or incubators by engaging at the idea stage.</span>
             </p>
         </div>
         <div class="row pb-3">
-            <p style="font-size: 25px;">Our mission is to empower businesses through AI technology, fostering growth,
-                enhancing efficiency, and ensuring long-term success.</p>
+            <p style="font-size: 25px;"> We guide projects through product development , startup building & ultimately , the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
         </div>
         <a class="black " href="">Read more about us</a>
     </div>
@@ -164,15 +160,16 @@
     <section>
         <div class="container">
             <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
-                <div class="col-md-9">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
-                        enhanced
-                        efficiency
-                        and growth.</p>
+                <div class="col-md-9 d-flex align-items-center">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
                 </div>
-                <div class="col-md-3">
-                    <a class="white " style="border:1px solid black" href="">Get in touch</a>
-                    <a class="black " href="">View case studies</a>
+                <div class="col-md-3 d-flex ">
+                    <div class="col-md-6 text-center">
+                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    </div>
+                    <div class="col-md-6 ">
+                        <a class="black " href="">View case studies</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -203,7 +200,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font" style="font-size: 40px;width: 70%;">01</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">01</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>AI-Driven Software Development</h6>
@@ -215,7 +212,7 @@
                             drive innovation within your organization.</p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
-                                <a href="">Read more</a>
+                                <a href=""class="RM">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -225,7 +222,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font" style="font-size: 40px;">02</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">02</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>AI Consulting</h6>
@@ -235,7 +232,7 @@
                             your business stays ahead in a rapidly evolving tech landscape.</p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
-                                <a href="">Read more</a>
+                                <a href=""class="RM">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -248,7 +245,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font" style="font-size: 40px;width: 70%;">03</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">03</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>AI Digital Transformation</h6>
@@ -258,7 +255,7 @@
                             advanced technologies for improved efficiency, innovation, and growth.</p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
-                                <a href="">Read more</a>
+                                <a href=""class="RM">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -268,7 +265,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font" style="font-size: 40px;">04</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">04</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>AI-Enhanced Cybersecurity</h6>
@@ -278,7 +275,7 @@
                             integrity of your business operations.</p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
-                                <a href="">Read more</a>
+                                <a href=""class="RM">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -289,15 +286,16 @@
 
         <div class="container" style="padding: 60px 0 0 0;">
             <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
-                <div class="col-md-9">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
-                        enhanced
-                        efficiency
-                        and growth.</p>
+                <div class="col-md-9 d-flex align-items-center">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
                 </div>
-                <div class="col-md-3">
-                    <a class="white " style="border:1px solid black" href="">Get in touch</a>
-                    <a class="black " href="">View case studies</a>
+                <div class="col-md-3 d-flex ">
+                    <div class="col-md-6 text-center">
+                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    </div>
+                    <div class="col-md-6 ">
+                        <a class="black " href="">View case studies</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -390,15 +388,16 @@
 
     <div class="container pt-5">
         <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
-            <div class="col-md-9">
-                <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
-                    enhanced
-                    efficiency
-                    and growth.</p>
+            <div class="col-md-9 d-flex align-items-center">
+                <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
             </div>
-            <div class="col-md-3">
-                <a class="white " style="border:1px solid black" href="">Get in touch</a>
-                <a class="black " href="">View case studies</a>
+            <div class="col-md-3 d-flex ">
+                <div class="col-md-6 text-center">
+                    <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                </div>
+                <div class="col-md-6 ">
+                    <a class="black " href="">View case studies</a>
+                </div>
             </div>
         </div>
     </div>
@@ -423,9 +422,9 @@
 
         </div>
 
-        <div class="row d-flex justify-content-center">
-            <div class="col-md-5">
-                <p class="heading1 font">Thanks to AI Dynamics' AI-driven digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their innovative AI solutions and ongoing support have been invaluable.</p>
+        <div class="row pt-4 d-flex justify-content-center">
+            <div class="col-md-8">
+                <p class="heading1 font" style="font-style: italic;font-size: 29px;">Thanks to AI Dynamics' AI-driven digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their innovative AI solutions and ongoing support have been invaluable.</p>
             </div>
         </div>
 
@@ -433,19 +432,95 @@
 
         <div class="container" style="padding: 60px 0 0 0;">
             <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
-                <div class="col-md-9">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards
-                        enhanced
-                        efficiency
-                        and growth.</p>
+                <div class="col-md-9 d-flex align-items-center">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
                 </div>
-                <div class="col-md-3">
-                    <a class="black " href="">Get in touch</a>
-                    
+                <div class="col-md-3 d-flex ">
+                    <div class="col-md-6 text-center">
+                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    </div>
+                    <div class="col-md-6 ">
+                        <a class="black " href="">View case studies</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+    
+    <!-- feedback -->
+<section class="space grey">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="    line-height: 54px;">
+                <p class="heading font mb-0">Feedback —</p>
+                <p class="heading font">
+                    We get</p>
+                 
+            </div>
+            <div class="col-md-6 d-flex flex-column justify-content-end">
+                <p>AI-powered services designed to help your business thrive. Explore our key services below. </p>
+            </div>
+
+        </div>
+
+        <div class="row pt-4 d-flex justify-content-center">
+            <div class="col-md-8">
+                <p class="heading1 font" style="font-style: italic;font-size: 29px;">Thanks to AI Dynamics' AI-driven digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their innovative AI solutions and ongoing support have been invaluable.</p>
+            </div>
+        </div>
+
+       
+
+        <div class="container" style="padding: 60px 0 0 0;">
+            <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
+                <div class="col-md-9 d-flex align-items-center">
+                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
+                </div>
+                <div class="col-md-3 d-flex ">
+                    <div class="col-md-6 text-center">
+                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    </div>
+                    <div class="col-md-6 ">
+                        <a class="black " href="">View case studies</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        <!-- Slider Section -->
+        <div class="container" style="padding: 60px 0 0 0;">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="feedback">
+                            <p>Feedback 1: AI-powered services designed to help your business thrive.</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="feedback">
+                            <p>Feedback 2: Thanks to AI Dynamics' AI-driven services, our sales increased by 50%.</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="feedback">
+                            <p>Feedback 3: Their innovative AI solutions are invaluable.</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="feedback">
+                            <p>Feedback 4: Exceptional support and growth strategies.</p>
+                        </div>
+                    </div>
+                    <!-- Add more feedback items as needed -->
+                </div>
+            </div>
+        </div>
+        <!-- End Slider Section -->
+
+
+</section>
+<!-- feedback -->
 
 
 </section>
