@@ -44,6 +44,16 @@ a:hover {
 
 
 /* ncss */
+.h{
+	line-height: 57px;
+}
+.f1{
+	font-size: 65px;
+}
+.content{
+	padding-top: 160px;
+	color: black;
+}
 body{
 	color:black;
 }
@@ -56,6 +66,12 @@ body{
 	text-transform: capitalize;
 	font-size: 25px;
 	font-weight: 100;
+}
+.psize{
+	font-size: 25px;
+}
+.lh{
+	line-height: 54px;
 }
 .black {
     height: 5vh;
@@ -272,6 +288,9 @@ body{
 	height: 40vh;
 	padding-top: 46px;
 	padding-bottom: 23px;
+}
+.cspace{
+	padding: 60px 0 0 0;
 }
 .subscribe{
 	padding:15px;

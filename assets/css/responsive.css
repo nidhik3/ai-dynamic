@@ -1,45 +1,102 @@
 @media (max-width: 767.98px) {
+
+    .f1{
+        font-size: 38px;
+    }
+
+    .content{
+        padding-top: 80px;
+        
+    }
+
+    .space {
+        padding: 49px 0;
+        overflow: hidden;
+    }
+    .space-x{
+        padding: 0 30px;
+    }
    
-	.mspace {
-        padding: 0 ;
-        overflow: hidden;
+    .container, .row {
+        width: 100%; /* Full width for mobile */
+        /* padding: 0 15px;  */
     }
-    .banner-txt {
-        width: 100%;
+
+    .col-md-6, .col-md-12 {
+        flex: 0 0 100%; /* Full width columns */
+        max-width: 100%; /* Full width columns */
     }
-    .no-top {
-        padding: 0 ;
-        overflow: hidden;
+
+    .col-md-3, .col-md-4 {
+        flex: 0 0 100%; /* Full width columns */
+        max-width: 100%; /* Full width columns */
     }
-    .side{
-        padding-left: 12px;
-        padding-right: 12px;
+
+    .buildingImg {
+        height: auto; /* Adjusted for mobile */
+        width: 100%; /* Full width for mobile */
     }
-    #footer .footer-top {
-        padding: 0px 0 30px 0;
+    .h {
+        line-height: 30px;
     }
-    .qlinks{
-        display: none;
+    .psize {
+        font-size: 20px;
     }
-    .section-container {
-        position: relative;
-        width: 100%;
-        overflow: hidden;
+    .lh {
+        line-height: 33px;
     }
-    
-    .section-image {
-        width: 100%;
-        height: 100vh; /* Ensure the aspect ratio is maintained */
-        display: block; /* Remove any unwanted margins or spaces */
+    .wbox {
+        border-top: 2px solid black;
+        background-color: white;
+        color: black;
+        width: 99%;
+        height: 44vh;
+        padding-top: 46px;
+        padding-bottom: 23px;
+        margin-top: 35px;
     }
-    
-    .overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
+    .ibox {
         height: 100%;
-        background: rgba(0, 0, 0, 0.5); /* Adjust the color and opacity */
-        pointer-events: none; /* Allow clicks to pass through the overlay if needed */
+        width: 32%;
+    }
+    .overlay-container {
+      margin-top: 10px;
+    }
+    
+}
+
+@media (max-width: 576px) {
+    .heading {
+        font-size: 28px; /* Adjusted font size for extra small screens */
+        
+    }
+
+    .heading1 {
+        font-size: 18px; /* Adjusted font size for extra small screens */
+    }
+
+    .bannerH1 {
+        font-size: 20px; /* Smaller font size */
+    }
+
+    .bannerp {
+        font-size: 14px; /* Smaller font size */
+    }
+
+    .text1 {
+        font-size: 14px; /* Smaller font size */
+    }
+
+    .subscribe {
+        font-size: 12px; /* Smaller font size */
+        height: auto; /* Adjust height */
+    }
+
+    .black, .white {
+        font-size: 12px; /* Smaller font size */
+    }
+
+    .arrow-icon {
+        height: 14px; /* Smaller icon for extra small screens */
     }
 }

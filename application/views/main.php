@@ -1,8 +1,8 @@
 
 <!-- banner -->
 <section style=" background-image: url('assets/img/leaf.png'); background-repeat: no-repeat;">
-    <div class="container content " style="padding-top: 160px;color: black;">
-        <p class="font" style="font-size: 65px;">We Discover and Develop AI Ventures .</p>
+    <div class="container content ">
+        <p class="font f1" >We Discover and Develop AI Ventures .</p>
         <div class="row">
             <div class="col-md-12 building">
                 <img src="assets/img/img1.avif" alt="" style="height: 90%; width: 100%; border-radius: 20px" class="buildingImg">
@@ -42,15 +42,15 @@
 
 <!-- grey ai Dynamics -->
 <section class="space grey">
-    <div class="container">
+    <div class="container space-x ">
         <div class="row">
-            <p style="line-height: 57px;">
+            <p class="h">
                 <span class=" heading font black-text">ENCOME </span> <span class="heading font"
                     style="color:#7c7a7a"> differs from accelerators or incubators by engaging at the idea stage. </span>
             </p>
         </div>
         <div class="row pb-3">
-            <p style="font-size: 25px;">We guide projects through product development , startup building & ultimately , the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
+            <p class="psize">We guide projects through product development , startup building & ultimately , the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
         </div>
         <a class="black " href="">Read more about us</a>
     </div>
@@ -61,8 +61,8 @@
 <!-- impact -->
 <section class="space">
     <div class="container  noTop">
-        <div class="row">
-            <div class="col-md-6" style="    line-height: 54px;">
+        <div class="row space-x">
+            <div class="col-md-6 lh">
                 <p class="heading font mb-0">Our —</p>
                 <p class="heading font">
                     Process</p>
@@ -74,7 +74,7 @@
         </div>
 
         <div class="overlay-container r1">
-            <div class="row impact pt-5">
+            <div class="row impact space-x pt-5">
                 <div class="col-md-6">
                     <img src="assets/img/impact1.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
                 </div>
@@ -92,7 +92,7 @@
         </div>
 
         <div class="overlay-container r2">
-            <div class="row impact pt-5">
+            <div class="row impact space-x pt-5">
                 <div class="col-md-6 d-flex flex-column justify-content-end">
                     <p class="heading1 font">Expert-Driven Execution
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
@@ -110,7 +110,7 @@
         </div>
 
         <div class="overlay-container r3">
-            <div class="row impact pt-5">
+            <div class="row impact space-x pt-5">
                 <div class="col-md-6">
                     <img src="assets/img/impact3.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
                 </div>
@@ -127,7 +127,7 @@
         </div>
 
         <div class="overlay-container r4">
-            <div class="row impact pt-5">
+            <div class="row impact space-x pt-5">
                 <div class="col-md-6 d-flex flex-column justify-content-end">
                     <p class="heading1 font">Maximizing Growth and Impact
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
@@ -173,8 +173,8 @@
 <!-- solutions -->
 <section class="space grey">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6" style="    line-height: 54px;">
+        <div class="row space-x">
+            <div class="col-md-6 lh">
                 <p class="heading font mb-0">Our —</p>
                 <p class="heading font">
                     Services</p>
@@ -186,7 +186,7 @@
 
         </div>
 
-        <div class="row pt-4">
+        <div class="row space-x pt-4">
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
@@ -225,7 +225,7 @@
             </div>
         </div>
 
-        <div class="row pt-4">
+        <div class="row space-x pt-4">
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
@@ -264,7 +264,7 @@
             </div>
         </div>
 
-        <div class="container" style="padding: 60px 0 0 0;">
+        <div class="container space-x cspace ">
             <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
                 <div class="col-md-9 d-flex align-items-center">
                     <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
@@ -288,9 +288,9 @@
 
 <!-- insights -->
 <section class="space ">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6" style="    line-height: 54px;">
+    <div class="container space-x">
+        <div class="row ">
+            <div class="col-md-6 lh">
                 <p class="heading font mb-0">Insights —</p>
                 <p class="heading font">
                     We share</p>
@@ -302,7 +302,7 @@
             </div>
 
         </div>
-        <div class="row pt-5">
+        <div class="row space-x pt-5">
             <div class="col-md-3 p-0 d-flex align-items-end" style="width: 16%;">
                 <p>Subscribe to our weekly blog</p>
             </div>
@@ -323,7 +323,7 @@
     </div>
     
     <div class="container">
-        <div class="row pt-5 d-flex justify-content-between">
+        <div class="row space-x pt-5 d-flex justify-content-between">
 
             <div class="col-md-4 p-0 ibox overlay-container">
                 <img src="assets/img/insight1.avif" alt="" class="iimg">
@@ -367,8 +367,8 @@
         </div>
     </div>
 
-    <div class="container pt-5">
-        <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
+    <div class="container space-x  pt-5">
+        <div class="rowgrey" style="padding: 40px 15px; border-radius: 35px;">
             <div class="col-md-9 d-flex align-items-center">
                 <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
             </div>
