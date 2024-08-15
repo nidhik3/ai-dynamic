@@ -15,7 +15,7 @@
 .font {
   font-family: "Playfair Display", serif !important;
   font-optical-sizing: auto;
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
 }
 .ibm-plex-sans-medium {
@@ -269,6 +269,7 @@ body{
 	background-color: white;
 	color: black;
 	width: 95%;
+	height: 40vh;
 	padding-top: 46px;
 	padding-bottom: 23px;
 }
@@ -330,7 +331,7 @@ body{
 /* main */
 
 /* feedback */
-.swiper-container {
+/* .swiper-container {
     width: 100%;
     overflow: hidden;
 }
@@ -348,7 +349,7 @@ body{
     text-align: center;
     width: 90%;
 	border-top: 2px solid black;
-}
+} */
 
 
 /* feedback */

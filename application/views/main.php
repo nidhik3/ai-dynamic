@@ -9,10 +9,10 @@
                 <div class="col-md-5 text1">
                     <h4 class="heading font">Empowering Founders to Build the Outstanding AI Companies of Tomorrow.</h4>
                     <hr style="opacity: 2.25;">
-                    <p class="" style="font-family: Dosis, sans-serif;">At ENCOME we collaborate closely with AI startups from inception to launch and beyond.We are deeply involved in every, transforming ideas into products, witnessing their real-world applications, and ensuring their successful introduction to the market.</p>
+                    <p class="" style="font-family: Dosis, sans-serif;">At ENCOME we collaborate closely with AI startups from inception to launch and beyond.We are deeply involved in every, transforming ideas into products, witnessing their real-world applications, and ensuring their successful introduction to the market.</p>
                     <div class="pt-3">
                         <a class="black " href="">Learn More</a>
-                        <a class="white ml-3 " href="" style=" margin-left: 10px;">Contact us</a>
+                        <a class="white ml-3 " href="" style=" margin-left: 10px;">Build With Us</a>
                     </div>
 
                 </div>
@@ -45,12 +45,12 @@
     <div class="container">
         <div class="row">
             <p style="line-height: 57px;">
-                <span class=" heading font black-text">Businesses </span> <span class="heading font"
-                    style="color:#7c7a7a"> of All Sizes with ENCOME differs from accelerators or incubators by engaging at the idea stage.</span>
+                <span class=" heading font black-text">ENCOME </span> <span class="heading font"
+                    style="color:#7c7a7a"> differs from accelerators or incubators by engaging at the idea stage. </span>
             </p>
         </div>
         <div class="row pb-3">
-            <p style="font-size: 25px;"> We guide projects through product development , startup building & ultimately , the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
+            <p style="font-size: 25px;">We guide projects through product development , startup building & ultimately , the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
         </div>
         <a class="black " href="">Read more about us</a>
     </div>
@@ -63,13 +63,12 @@
     <div class="container  noTop">
         <div class="row">
             <div class="col-md-6" style="    line-height: 54px;">
-                <p class="heading font mb-0">Impact —</p>
+                <p class="heading font mb-0">Our —</p>
                 <p class="heading font">
-                    We drive</p>
+                    Process</p>
             </div>
             <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>Our mission is to empower businesses through AI technology, fostering growth, enhancing efficiency,
-                    and ensuring long-term success.</p>
+                <p>Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
             </div>
 
         </div>
@@ -80,13 +79,11 @@
                     <img src="assets/img/impact1.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
                 </div>
                 <div class="col-md-6 d-flex flex-column justify-content-end">
-                    <p class="heading1 font">Enhancing Inventory Management for BrightMart
+                    <p class="heading1 font">Selective Commitment to High-Potential Ideas
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
                     </p>
-                    <p>BrightMart faced challenges in managing inventory and predicting demand, leading to
-                        inefficiencies. AI Dynamics developed a predictive analytics model to forecast demand and
-                        optimize inventory, resulting in a 30% sales increase, 20% cost reduction, and improved customer
-                        satisfaction.
+                    <p>
+                        ENCOME's AI-powered algorithms analyze market trends and potential opportunities, ensuring that only the most promising ideas receive resources and capital. This data-driven approach maximizes the impact of each investment, allowing ENCOME to focus on ventures with the highest probability of success.
                     </p>
                 </div>
             </div>
@@ -97,12 +94,10 @@
         <div class="overlay-container r2">
             <div class="row impact pt-5">
                 <div class="col-md-6 d-flex flex-column justify-content-end">
-                    <p class="heading1 font">Revolutionizing Customer Support for TechGear
+                    <p class="heading1 font">Expert-Driven Execution
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
                     </p>
-                    <p>TechGear struggled with a high volume of customer inquiries, leading to long response times. AI
-                        Dynamics implemented AI chatbots and virtual assistants, resulting in a 50% reduction in
-                        response times, 40% increase in customer satisfaction, and improved support team efficiency.
+                    <p>ENCOME leverages AI to automate operational tasks, freeing founders to focus on innovation. AI-driven project management tools coordinate the efforts of a team of experts, optimizing the building process and allowing founders to dedicate their energy to product development.
                     </p>
                 </div>
 
@@ -120,13 +115,10 @@
                     <img src="assets/img/impact3.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
                 </div>
                 <div class="col-md-6 d-flex flex-column justify-content-end">
-                    <p class="heading1 font">Securing Financial Data for SafeBank
+                    <p class="heading1 font">Strategic Market Acceleration
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
                     </p>
-                    <p>BrightMart faced challenges in managing inventory and predicting demand, leading to
-                        inefficiencies. AI Dynamics developed a predictive analytics model to forecast demand and
-                        optimize inventory, resulting in a 30% sales increase, 20% cost reduction, and improved customer
-                        satisfaction.
+                    <p>ENCOME's AI-driven market analysis provides startups with critical insights, helping them to navigate competitive landscapes with precision. By utilizing AI-powered tools, startups can accelerate their go-to-market strategies, leveraging advanced analytics and customer data to outpace competitors and rapidly capture market share.
                     </p>
                 </div>
             </div>
@@ -137,12 +129,10 @@
         <div class="overlay-container r4">
             <div class="row impact pt-5">
                 <div class="col-md-6 d-flex flex-column justify-content-end">
-                    <p class="heading1 font">Optimizing Project Management for BuildIt Construction
+                    <p class="heading1 font">Maximizing Growth and Impact
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
                     </p>
-                    <p>BuildIt Construction faced project delays and inefficiencies. AI Dynamics developed a custom AI
-                        project management tool, leading to a 60% improvement in project completion rates, 40% increase
-                        in workflow efficiency, and a 30% reduction in project delays.
+                    <p>AI plays a central role in ENCOME’s growth strategy, identifying scalable opportunities and optimizing business operations for rapid expansion. ENCOME’s AI-driven models predict market trends, ensuring that each startup is positioned for outsized growth, enabling founders to achieve significant financial success while leading their industries.
                     </p>
                 </div>
                 <div class="col-md-6">
@@ -161,14 +151,14 @@
         <div class="container">
             <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
                 <div class="col-md-9 d-flex align-items-center">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
+                    <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
                 </div>
                 <div class="col-md-3 d-flex ">
-                    <div class="col-md-6 text-center">
-                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    <div class="col-md-12 text-center">
+                        <a class="black" href="">Get in touch</a>
                     </div>
                     <div class="col-md-6 ">
-                        <a class="black " href="">View case studies</a>
+                        <!-- <a class="black " href="">View case studies</a> -->
                     </div>
                 </div>
             </div>
@@ -185,13 +175,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6" style="    line-height: 54px;">
-                <p class="heading font mb-0">Solutions —</p>
+                <p class="heading font mb-0">Our —</p>
                 <p class="heading font">
-                    We offer</p>
+                    Services</p>
             </div>
             <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>Read their testimonials to see how our cutting-edge AI solutions have driven growth, efficiency, and
-                    success across various industries. </p>
+                <p>
+                    ENCOME offers all-inclusive services to help co-founders focus on innovation while we handle development, operations, compliance, and talent acquisition. </p>
             </div>
 
         </div>
@@ -203,13 +193,9 @@
                         <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">01</h3>
                     </div>
                     <div class="col-md-9">
-                        <h6>AI-Driven Software Development</h6>
-                        <p style="font-size: 14px;">Tailored AI solutions to meet your specific business needs, ensuring
-                            seamless integration and
-                            maximum efficiency. Our AI-driven software development services focus on creating custom
-                            applications that leverage the power of AI to automate processes, enhance decision-making,
-                            and
-                            drive innovation within your organization.</p>
+                        <h6>Development  </h6>
+                        <p style="font-size: 14px;">ENCOME offers end-to-end design and engineering services to co-founders. This includes initial concept design, user experience (UX) development, and full-scale engineering to bring products to life. The studio leverages cutting-edge technology and industry best practices to ensure that every product is not only functional but also scalable and user-friendly. From wireframes to final prototypes, ENCOME's development services cover every aspect of product creation.
+                        </p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
                                 <a href=""class="RM">Read more</a>
@@ -225,11 +211,9 @@
                         <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">02</h3>
                     </div>
                     <div class="col-md-9">
-                        <h6>AI Consulting</h6>
-                        <p style="font-size: 14px;">Expert advice to help you navigate the complexities of AI technology
-                            and make informed decisions that drive growth. Our AI consulting services provide strategic
-                            guidance on implementing AI technologies, optimizing existing processes, and ensuring that
-                            your business stays ahead in a rapidly evolving tech landscape.</p>
+                        <h6>Compliance </h6>
+                        <p style="font-size: 14px;">ENCOME provides robust financial and legal services to ensure that startups are built on a solid foundation. This includes financial planning, budgeting, and fundraising support, as well as legal services such as contract management, intellectual property protection, and regulatory compliance. The studio’s expertise helps co-founders navigate the complexities of startup finance and legal requirements, allowing them to focus on growing their business without worrying about compliance issues.
+                        </p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
                                 <a href=""class="RM">Read more</a>
@@ -248,11 +232,9 @@
                         <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">03</h3>
                     </div>
                     <div class="col-md-9">
-                        <h6>AI Digital Transformation</h6>
-                        <p style="font-size: 14px;">Helping your business embrace AI tools and processes to stay
-                            competitive in the modern market. Our digital transformation services with AI focus on
-                            integrating AI-driven solutions into your business operations, enabling you to leverage
-                            advanced technologies for improved efficiency, innovation, and growth.</p>
+                        <h6>Talent  </h6>
+                        <p style="font-size: 14px;">Building a strong team is crucial for any startup's success, and ENCOME supports this through comprehensive HR and recruiting services. The studio assists in defining company culture, managing employee relations, and developing talent acquisition strategies. ENCOME also handles the recruitment process, from sourcing candidates to onboarding, ensuring that co-founders can attract and retain the best talent to drive their startups forward.
+                        </p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
                                 <a href=""class="RM">Read more</a>
@@ -268,11 +250,9 @@
                         <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">04</h3>
                     </div>
                     <div class="col-md-9">
-                        <h6>AI-Enhanced Cybersecurity</h6>
-                        <p style="font-size: 14px;">Protecting your business from digital threats with robust AI-driven
-                            security solutions. Our AI-enhanced cybersecurity services offer advanced threat detection,
-                            real-time monitoring, and automated response systems to safeguard your data and ensure the
-                            integrity of your business operations.</p>
+                        <h6>Operations  </h6>
+                        <p style="font-size: 14px;">
+                            ENCOME ensures that the operational side of the startup runs smoothly, offering IT and operational management services. This includes setting up and maintaining technology infrastructure, optimizing business processes, and managing logistics. By streamlining operations, ENCOME enables startups to scale efficiently and effectively, ensuring that all aspects of the business are aligned for growth and success.</p>
                         <div class="row d-flex justify-content-end">
                             <div class="col-md-3">
                                 <a href=""class="RM">Read more</a>
@@ -287,14 +267,15 @@
         <div class="container" style="padding: 60px 0 0 0;">
             <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
                 <div class="col-md-9 d-flex align-items-center">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
+                    <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
                 </div>
                 <div class="col-md-3 d-flex ">
-                    <div class="col-md-6 text-center">
-                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                    <div class="col-md-12 text-center">
+                        <a class="black" href="">Get in touch</a>
                     </div>
                     <div class="col-md-6 ">
-                        <a class="black " href="">View case studies</a>
+                        <!-- <a class="black " href="">View case studies</a> -->
+                       
                     </div>
                 </div>
             </div>
@@ -389,14 +370,14 @@
     <div class="container pt-5">
         <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
             <div class="col-md-9 d-flex align-items-center">
-                <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
+                <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
             </div>
             <div class="col-md-3 d-flex ">
-                <div class="col-md-6 text-center">
-                    <a class="white " style="border:1px solid black" href="">Get in touch</a>
+                <div class="col-md-12 text-center">
+                    <a class="black" href="">Get in touch</a>
                 </div>
                 <div class="col-md-6 ">
-                    <a class="black " href="">View case studies</a>
+                    <!-- <a class="black " href="">View case studies</a> -->
                 </div>
             </div>
         </div>
@@ -405,123 +386,3 @@
 
 </section>
 <!-- insights -->
- 
-<!-- feedback -->
-<section class="space grey">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6" style="    line-height: 54px;">
-                <p class="heading font mb-0">Feedback —</p>
-                <p class="heading font">
-                    We get</p>
-                 
-            </div>
-            <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>AI-powered services designed to help your business thrive. Explore our key services below. </p>
-            </div>
-
-        </div>
-
-        <div class="row pt-4 d-flex justify-content-center">
-            <div class="col-md-8">
-                <p class="heading1 font" style="font-style: italic;font-size: 29px;">Thanks to AI Dynamics' AI-driven digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their innovative AI solutions and ongoing support have been invaluable.</p>
-            </div>
-        </div>
-
-       
-
-        <div class="container" style="padding: 60px 0 0 0;">
-            <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
-                <div class="col-md-9 d-flex align-items-center">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
-                </div>
-                <div class="col-md-3 d-flex ">
-                    <div class="col-md-6 text-center">
-                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
-                    </div>
-                    <div class="col-md-6 ">
-                        <a class="black " href="">View case studies</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <!-- feedback -->
-<section class="space grey">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6" style="    line-height: 54px;">
-                <p class="heading font mb-0">Feedback —</p>
-                <p class="heading font">
-                    We get</p>
-                 
-            </div>
-            <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>AI-powered services designed to help your business thrive. Explore our key services below. </p>
-            </div>
-
-        </div>
-
-        <div class="row pt-4 d-flex justify-content-center">
-            <div class="col-md-8">
-                <p class="heading1 font" style="font-style: italic;font-size: 29px;">Thanks to AI Dynamics' AI-driven digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their innovative AI solutions and ongoing support have been invaluable.</p>
-            </div>
-        </div>
-
-       
-
-        <div class="container" style="padding: 60px 0 0 0;">
-            <div class="row " style="padding: 40px 15px; border-radius: 35px; background-color: white;">
-                <div class="col-md-9 d-flex align-items-center">
-                    <p class="m-0">Contact us today to learn more about our AI solutions and start your journey towards enhanced efficiency and growth.</p>
-                </div>
-                <div class="col-md-3 d-flex ">
-                    <div class="col-md-6 text-center">
-                        <a class="white " style="border:1px solid black" href="">Get in touch</a>
-                    </div>
-                    <div class="col-md-6 ">
-                        <a class="black " href="">View case studies</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-        <!-- Slider Section -->
-        <div class="container" style="padding: 60px 0 0 0;">
-            <div class="swiper-container">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="feedback">
-                            <p>Feedback 1: AI-powered services designed to help your business thrive.</p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="feedback">
-                            <p>Feedback 2: Thanks to AI Dynamics' AI-driven services, our sales increased by 50%.</p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="feedback">
-                            <p>Feedback 3: Their innovative AI solutions are invaluable.</p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="feedback">
-                            <p>Feedback 4: Exceptional support and growth strategies.</p>
-                        </div>
-                    </div>
-                    <!-- Add more feedback items as needed -->
-                </div>
-            </div>
-        </div>
-        <!-- End Slider Section -->
-
-
-</section>
-<!-- feedback -->
-
-
-</section>
-<!-- feedback -->
