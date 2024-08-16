@@ -148,7 +148,7 @@
 
     <!-- contact banner -->
     <section>
-        <div class="container">
+        <div class="container space-x">
             <div class="row  grey" style="padding: 40px 15px; border-radius: 35px;">
                 <div class="col-md-9 d-flex align-items-center">
                     <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
@@ -172,8 +172,8 @@
 
 <!-- solutions -->
 <section class="space grey">
-    <div class="container">
-        <div class="row space-x">
+    <div class="container space-x">
+        <div class="row ">
             <div class="col-md-6 lh">
                 <p class="heading font mb-0">Our —</p>
                 <p class="heading font">
@@ -190,7 +190,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">01</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 22%;">01</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>Development  </h6>
@@ -208,7 +208,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">02</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 22%;">02</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>Compliance </h6>
@@ -225,11 +225,11 @@
             </div>
         </div>
 
-        <div class="row space-x pt-4">
+        <div class="row space-x pt-5">
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">03</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 22%;">03</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>Talent  </h6>
@@ -247,7 +247,7 @@
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
-                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 33%;">04</h3>
+                        <h3 class="font no" style="font-size: 40px;width: 70%; height: 22%;">04</h3>
                     </div>
                     <div class="col-md-9">
                         <h6>Operations  </h6>
@@ -302,7 +302,7 @@
             </div>
 
         </div>
-        <div class="row space-x pt-5">
+        <div class="row space-x pt-3">
             <div class="col-md-3 p-0 d-flex align-items-end" style="width: 16%;">
                 <p>Subscribe to our weekly blog</p>
             </div>
@@ -311,8 +311,7 @@
                     <input type="text" placeholder="name@gmail.com" class="subscribe">
                 </div>
                 <div class="col-md-1  d-flex align-items-center">
-                    <a class="black " href=""
-                        style="height: 6vh;padding: 10px 8px 19px 8px; margin-left: 5px;">Subscribe </a>
+                    <a class="black sb " href="">Subscribe </a>
                 </div>
 
             </div>
@@ -327,9 +326,8 @@
 
             <div class="col-md-4 p-0 ibox overlay-container">
                 <img src="assets/img/insight1.avif" alt="" class="iimg">
-                <h5 class="pt-3 font heading1">Transform Your Business with Innovative Tech Solutions</h5>
-                <p class="para">Welcome to AI Dynamics, where we specialize in helping small to medium-sized
-                    non-tech companies and tech startups streamline their operations with cuttin...</p>
+                <h5 class="pt-3 font heading1">Empowering Founders with Expert-Led Development at ENCOME  </h5>
+                <p class="para">At ENCOME, we understand that building a great AI venture requires more than just a groundbreaking idea—it needs expert execution. That’s why we provide our co-founders with a top-tier development team that handles everything from design to ...</p>
                 <div class="row">
                     <div class="col-md-3">
                         <a href="#" class="ra">Read article</a>
@@ -340,9 +338,9 @@
             
             <div class="col-md-4 p-0 ibox overlay-container">
                 <img src="assets/img/insight2.avif" alt="" class="iimg">
-                <h5 class=" pt-3 font heading1">Starting and Growing a Career in Web Design</h5>
-                <p class="para">Welcome to AI Dynamics, where we specialize in helping small to medium-sized
-                    non-tech companies and tech startups streamline their operations with cuttin...</p>
+                <h5 class=" pt-3 font heading1">Streamlining Operations for AI Startups: How ENCOME Makes Scaling Seamless
+                </h5>
+                <p class="para">One of the biggest challenges for AI startups is managing operations efficiently as they scale. ENCOME addresses this by offering comprehensive operational support to our co-founders. ...</p>
                 <div class="row ">
                     <div class="col-md-3">
                         <a href="" class="ra">Read article</a>
@@ -352,9 +350,9 @@
             </div>
             <div class="col-md-4 p-0 ibox overlay-container">
                 <img src="assets/img/insight3.avif" alt="" class="iimg">
-                <h5 class=" pt-3 font heading1">Create a Landing Page That Performs Great</h5>
-                <p class="para">Welcome to AI Dynamics, where we specialize in helping small to medium-sized
-                    non-tech companies and tech startups streamline their operations with cuttin...</p>
+                <h5 class=" pt-3 font heading1">Building Strong Teams and Ensuring Compliance: The ENCOME Advantage
+                </h5>
+                <p class="para">At ENCOME, we believe that a great team and a solid compliance framework are the backbone of any successful AI venture. That’s why we provide extensive HR, recruiting, and legal support ..</p>
                 <div class="row ">
                     <div class="col-md-3">
                         <a href="" class="ra">Read article</a>
@@ -368,7 +366,7 @@
     </div>
 
     <div class="container space-x  pt-5">
-        <div class="rowgrey" style="padding: 40px 15px; border-radius: 35px;">
+        <div class="row grey" style="padding: 40px 15px; border-radius: 35px;">
             <div class="col-md-9 d-flex align-items-center">
                 <p class="m-0">Come build with us—let's bring your ideas to life together with expert support and a clear path to success.</p>
             </div>

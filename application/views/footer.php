@@ -19,7 +19,7 @@
                 <li><a class="nav-link fs scrollto" href="">Solutions</a></li>
                 <li><a class="nav-link fs scrollto" href="">Cases</a></li>
                 <li><a class="nav-link fs scrollto " href="">Blogs</a></li>
-                <li><a class="nav-link fs scrollto" href="Career">Pricing</a></li>
+                <li><a class="nav-link fs scrollto" href="">Pricing</a></li>
                 <li><a class="nav-link fs scrollto" href="">About</a></li>
                 <li><a class="nav-link fs scrollto" href="">Contact</a></li>
               </ul>
@@ -71,3 +71,4 @@
   
   
 <!-- Slider -->
+
