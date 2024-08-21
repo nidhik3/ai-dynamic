@@ -1,30 +1,32 @@
 
 <!-- banner -->
-<section style=" background-image: url('assets/img/leaf.png'); background-repeat: no-repeat;">
-    <div class="container content ">
-        <p class="font f1" >We Discover and Develop AI Ventures .</p>
+<section style="background-image: url('assets/img/leaf.png'); background-repeat: no-repeat;">
+    <div class="container content">
+        <p class="font f1 hiddenT">We Discover and Develop AI Ventures.</p>
         <div class="row">
             <div class="col-md-12 building">
-                <img src="assets/img/img1.avif" alt="" style="height: 90%; width: 100%; border-radius: 20px" class="buildingImg">
-                <div class="col-md-5 text1">
-                    <h4 class="heading font">Empowering Founders to Build the Outstanding AI Companies of Tomorrow.</h4>
+                <img src="assets/img/img1.avif" alt="" class="buildingImg">
+                <div class="col-md-5 text1 ">
+                    <h4 class="heading font">Empowering Founders to Build the Outstanding AI Companies of Tomorrow.</h4>
                     <hr style="opacity: 2.25;">
-                    <p class="" style="font-family: Dosis, sans-serif;">At ENCOME we collaborate closely with AI startups from inception to launch and beyond.We are deeply involved in every, transforming ideas into products, witnessing their real-world applications, and ensuring their successful introduction to the market.</p>
+                    <p style="font-family: Dosis, sans-serif;">
+                        At ENCOME, we collaborate closely with AI startups from inception to launch and beyond. We are deeply involved in every step, transforming ideas into products, witnessing their real-world applications, and ensuring their successful introduction to the market.
+                    </p>
                     <div class="pt-3">
-                        <a class="black " href="">Learn More</a>
-                        <a class="white ml-3 " href="" style=" margin-left: 10px;">Build With Us</a>
+                        <a class="black " href="#about">Learn More</a>
+                        <a class="white ml-3 " href="" style="margin-left: 10px;">Build With Us</a>
                     </div>
-
                 </div>
-
             </div>
         </div>
     </div>
 </section>
+
+
 <!-- banner -->
 
 <!-- trusted by -->
-<section class="noTop">
+<section class="space">
     <div class="container">
         <div class="row">
             <div class="col-md-2" style="font-weight: 500;">
@@ -41,21 +43,21 @@
 
 
 <!-- grey ai Dynamics -->
-<section class="space grey">
-    <div class="container space-x ">
-        <div class="row">
+<section class="space grey" id="about">
+    <div class="container space-x">
+        <div class="row hidden">
             <p class="h">
-                <span class=" heading font black-text">ENCOME </span> <span class="heading font"
-                    style="color:#7c7a7a"> differs from accelerators or incubators by engaging at the idea stage. </span>
+                <span class="heading font black-text">ENCOME </span>
+                <span class="heading font" style="color:#7c7a7a">differs from accelerators or incubators by engaging at the idea stage.</span>
             </p>
         </div>
-        <div class="row pb-3">
-            <p class="psize">We guide projects through product development , startup building & ultimately , the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
+        <div class="row pb-3 hidden">
+            <p class="psize">We guide projects through product development, startup building & ultimately, the Launch. Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
         </div>
-        <a class="black " href="">Read more about us</a>
+        <a class="black hidden" href="">Read more about us</a>
     </div>
-
 </section>
+
 <!-- grey ai Dynamics -->
 
 <!-- impact -->
@@ -63,20 +65,19 @@
     <div class="container  noTop">
         <div class="row space-x">
             <div class="col-md-6 lh">
-                <p class="heading font mb-0">Our —</p>
-                <p class="heading font">
-                    Process</p>
+                <p class="heading font mb-0 hiddenL">Our —</p>
+                <p class="heading font hiddenL">Process</p>
             </div>
             <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
+                <p class="hiddenL">Our involvement is comprehensive, ensuring a seamless transition from concept to market-ready product.</p>
             </div>
-
         </div>
+        
 
         <div class="overlay-container r1">
             <div class="row impact space-x pt-5">
                 <div class="col-md-6">
-                    <img src="assets/img/impact1.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
+                    <img src="assets/img/impact1.avif" alt="" style="max-height:100%; max-width: 99%; border-radius: 20px">
                 </div>
                 <div class="col-md-6 d-flex flex-column justify-content-end">
                     <p class="heading1 font">Selective Commitment to High-Potential Ideas
@@ -93,18 +94,21 @@
 
         <div class="overlay-container r2">
             <div class="row impact space-x pt-5">
-                <div class="col-md-6 d-flex flex-column justify-content-end">
+                <!-- Text Section -->
+                <div class="col-md-6 d-flex flex-column justify-content-end order-2 order-md-1">
                     <p class="heading1 font">Expert-Driven Execution
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
                     </p>
                     <p>ENCOME leverages AI to automate operational tasks, freeing founders to focus on innovation. AI-driven project management tools coordinate the efforts of a team of experts, optimizing the building process and allowing founders to dedicate their energy to product development.
                     </p>
                 </div>
-
-                <div class="col-md-6">
-                    <img src="assets/img/impact2.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
+            
+                <!-- Image Section -->
+                <div class="col-md-6 order-1 order-md-2">
+                    <img src="assets/img/impact2.avif" alt="" style="max-height:100%; max-width: 99%; border-radius: 20px">
                 </div>
             </div>
+            
             <!-- Overlay Div -->
             <div class="overlay"></div>
         </div>
@@ -112,7 +116,7 @@
         <div class="overlay-container r3">
             <div class="row impact space-x pt-5">
                 <div class="col-md-6">
-                    <img src="assets/img/impact3.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
+                    <img src="assets/img/impact3.avif" alt="" style="max-height:100%; max-width: 99%; border-radius: 20px">
                 </div>
                 <div class="col-md-6 d-flex flex-column justify-content-end">
                     <p class="heading1 font">Strategic Market Acceleration
@@ -128,17 +132,21 @@
 
         <div class="overlay-container r4">
             <div class="row impact space-x pt-5">
-                <div class="col-md-6 d-flex flex-column justify-content-end">
+                <!-- Text Section -->
+                <div class="col-md-6 d-flex flex-column justify-content-end order-2 order-md-1">
                     <p class="heading1 font">Maximizing Growth and Impact
                         <img src="assets/img/arrow.png" alt="" class="arrow-icon" style="height: 20px;">
                     </p>
-                    <p>AI plays a central role in ENCOME’s growth strategy, identifying scalable opportunities and optimizing business operations for rapid expansion. ENCOME’s AI-driven models predict market trends, ensuring that each startup is positioned for outsized growth, enabling founders to achieve significant financial success while leading their industries.
+                    <p>AI plays a central role in ENCOME’s growth strategy, identifying scalable opportunities and optimizing business operations for rapid expansion. ENCOME’s AI-driven models predict market trends, ensuring that each startup is positioned for outsized growth, enabling founders to achieve significant financial success while leading their industries.
                     </p>
                 </div>
-                <div class="col-md-6">
-                    <img src="assets/img/impact4.avif" alt="" style="height: 100%; max-width: 99%; border-radius: 20px">
+                
+                <!-- Image Section -->
+                <div class="col-md-6 order-1 order-md-2">
+                    <img src="assets/img/impact4.avif" alt="" style="max-height:100%; max-width: 99%; border-radius: 20px">
                 </div>
             </div>
+            
             <!-- Overlay Div -->
             <div class="overlay"></div>
 
@@ -173,20 +181,18 @@
 <!-- solutions -->
 <section class="space grey">
     <div class="container space-x">
-        <div class="row ">
+        <div class="row">
             <div class="col-md-6 lh">
-                <p class="heading font mb-0">Our —</p>
-                <p class="heading font">
-                    Services</p>
+                <p class="heading font mb-0 hiddenL">Our —</p>
+                <p class="heading font hiddenL">Services</p>
             </div>
             <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>
-                    ENCOME offers all-inclusive services to help co-founders focus on innovation while we handle development, operations, compliance, and talent acquisition. </p>
+                <p class="hiddenL">ENCOME offers all-inclusive services to help co-founders focus on innovation while we handle development, operations, compliance, and talent acquisition.</p>
             </div>
-
         </div>
+        
 
-        <div class="row space-x pt-4">
+        <div class="row pt-4">
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
@@ -225,7 +231,7 @@
             </div>
         </div>
 
-        <div class="row space-x pt-5">
+        <div class="row pt-5">
             <div class="col-md-6">
                 <div class="wbox d-flex justify-content-center ">
                     <div class="col-md-2 text-center">
@@ -289,19 +295,16 @@
 <!-- insights -->
 <section class="space ">
     <div class="container space-x">
-        <div class="row ">
+        <div class="row">
             <div class="col-md-6 lh">
-                <p class="heading font mb-0">Insights —</p>
-                <p class="heading font">
-                    We share</p>
+                <p class="heading font mb-0 hiddenL">Insights —</p>
+                <p class="heading font hiddenL">We share</p>
             </div>
             <div class="col-md-6 d-flex flex-column justify-content-end">
-                <p>
-                    Insights, news, and updates on the latest trends in AI technology and how they can benefit your
-                    business. All in our blog. </p>
+                <p class="hiddenL">Insights, news, and updates on the latest trends in AI technology and how they can benefit your business. All in our blog.</p>
             </div>
-
         </div>
+        
         <div class="row space-x pt-3">
             <div class="col-md-3 p-0 d-flex align-items-end" style="width: 16%;">
                 <p>Subscribe to our weekly blog</p>
