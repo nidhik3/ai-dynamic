@@ -1,5 +1,5 @@
 <style>
-    .fs{
+    .fs , .fs:hover{
         color: white ;
     }
 </style>
@@ -14,7 +14,7 @@
         </div>
         <div class="row pt-3 d-flex justify-content-around">
             <div class="col-md-6">
-            <ul class="d-flex justify-content-between">
+            <ul class="d-flex justify-content-evenly">
                 <!-- <li><a class="nav-link fs scrollto active" href="Main">Home</a></li> -->
                 <li><a class="nav-link fs scrollto" href="">Solutions</a></li>
                 <li><a class="nav-link fs scrollto" href="">Cases</a></li>

@@ -78,7 +78,7 @@
 		padding-left: 0;
 	}
 	.fs {
-		padding-left: 8px;
+		/* padding-left: 8px; */
         font-size: 13px;
 	}
     .building {

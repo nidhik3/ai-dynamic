@@ -71,7 +71,7 @@
           <li><a class="nav-link scrollto" href="">Solutions</a></li>
           <li><a class="nav-link scrollto" href="">Cases</a></li>
           <li><a class="nav-link scrollto " href="">Blogs</a></li>
-          <li><a class="nav-link scrollto" href="Career">Pricing</a></li>
+          <li><a class="nav-link scrollto" href="">Pricing</a></li>
           <li><a class="nav-link scrollto" href="">About</a></li>
           <li><a class="nav-link scrollto" href="">Contact</a></li>
           <li><a class="nav-link scrollto " href="">Buy template</a></li>

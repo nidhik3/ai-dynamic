@@ -208,29 +208,31 @@ body{
 
 /*==== main===== */
 .building {
-    position: relative;
-    overflow: hidden; 
+	width: 100%; /* Ensures the container takes full width */
+	height: 700px; /* Adjust the height as needed */
+	overflow: hidden; /* Hides the overflow for the image */
+	position: relative; /* Keep the container static */
 	border-radius: 20px;
-	padding-left: 0;
-	height: 90%;
-}
-
-.buildingImg {
-    height: 90%;
-    width: 100%;
-    position: relative; /* Image moves relative to its normal position */
-    animation: moveRight 5s infinite alternate ease-in-out;
-	
-}
-
-@keyframes moveRight {
-    0% {
-        transform: translateX(0); /* Start at original position */
-    }
-    100% {
-        transform: translateX(30px); /* Move right by 30px for a more noticeable effect */
-    }
-}
+  }
+  
+  .buildingImg {
+	position: absolute;
+	width: 120%; /* Image is wider than the container */
+	height: 100%;
+	object-fit: cover; /* Ensures the image covers the container */
+	animation: moveBuildingImage 20s ease-in-out infinite alternate;
+	border-radius: 20px;
+  }
+  
+  @keyframes moveBuildingImage {
+	0% {
+	  transform: translateX(0); /* Start at the left edge */
+	}
+	100% {
+	  transform: translateX(-10%); /* Move to the left, revealing the hidden part */
+	}
+  }
+  
 
 .text1 {
     position: absolute;
@@ -313,7 +315,7 @@ body{
 	background-color: white;
 	color: black;
 	width: 95%;
-	height: auto;
+	height: 40vh;
 	padding-top: 46px;
 	padding-bottom: 23px;
 }
@@ -422,6 +424,8 @@ body{
 	height: 40px;
 	border-radius: 50%;
 	transition: all 0.4s;
+	border: 2px solid white;
+
 }
 
 .back-to-top i {
