@@ -226,7 +226,7 @@ body{
   
   @keyframes moveBuildingImage {
 	0% {
-	  transform: translateX(0); /* Start at the left edge */
+	  transform: translateX(3%); /* Start at the left edge */
 	}
 	100% {
 	  transform: translateX(-10%); /* Move to the left, revealing the hidden part */

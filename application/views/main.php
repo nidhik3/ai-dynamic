@@ -2,9 +2,9 @@
 <!-- banner -->
 <section style="background-image: url('assets/img/leaf.png'); background-repeat: no-repeat;">
     <div class="container content">
-        <p class="font f1 hiddenT">We Discover and Develop AI Ventures.</p>
-        <div class="row">
-            <div class="col-md-12 building">
+        <p class="font f1 hiddenT space-x">We identify and build transformative AI startups and business ventures.</p>
+        <div class="row space-x">
+            <div class="col-md-12 p-0 building ">
                 <img src="assets/img/img1.avif" alt="" class="buildingImg">
                 <div class="col-md-5 text1 ">
                     <h4 class="heading font">Empowering Founders to Build the Outstanding AI Companies of Tomorrow.</h4>

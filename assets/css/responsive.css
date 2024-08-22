@@ -1,6 +1,6 @@
 @media (max-width: 767.98px) {
 	.f1 {
-		font-size: 38px;
+		font-size: 30px;
 	}
 
 	.content {
@@ -32,11 +32,6 @@
 		max-width: 100%; /* Full width columns */
 	}
 
-	.buildingImg {
-		height: 100%; 
-		width: 100%; 
-        animation: none;
-	}
 	.h {
 		line-height: 30px;
 	}
@@ -63,7 +58,8 @@
 		margin-top: 10px;
 	}
 	.sb,
-	.black , .white {
+	.black,
+	.white {
 		height: 4vh;
 	}
 	.overlay {
@@ -79,11 +75,8 @@
 	}
 	.fs {
 		/* padding-left: 8px; */
-        font-size: 13px;
+		font-size: 13px;
 	}
-    .building {
-      height: 50vh;
-    }
 
 	.heading {
 		font-size: 28px; /* Adjusted font size for extra small screens */
@@ -94,7 +87,6 @@
 		padding-top: 20px;
 	}
 
-
 	.bannerH1 {
 		font-size: 20px; /* Smaller font size */
 	}
@@ -103,9 +95,7 @@
 		font-size: 14px; /* Smaller font size */
 	}
 
-	.text1 {
-		font-size: 14px; /* Smaller font size */
-	}
+
 
 	.subscribe {
 		font-size: 12px; /* Smaller font size */
@@ -120,18 +110,27 @@
 	.arrow-icon {
 		height: 14px; /* Smaller icon for extra small screens */
 	}
-    .text1 {
-        left: 18px;
-    }
 
-    .cspace{
-        margin-top: 33px;
-    }
 
-    .sb{
-        padding:  8px; 
-        margin-left: 5px;
-    }
-   
+	.cspace {
+		margin-top: 33px;
+	}
 
+	.sb {
+		padding: 8px;
+		margin-left: 5px;
+	}
+
+	.buildingImg {
+		height: 100%;
+		width: 100%;
+		animation: none;
+	}
+	.building {
+		height: 100vh;
+	}
+	.text1 {
+		left: 12px; /* Adjust text positioning */
+		padding: 10px; /* Reduce padding for smaller screens */
+	}
 }
