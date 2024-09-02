@@ -44,9 +44,43 @@ a:hover {
 
 
 /* ncss */
-.h{
-	line-height: 57px;
+
+.ra {
+	position: relative;
+	text-decoration: none;
+	color: inherit;
+  }
+  
+  .ra::after {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 2px;
+	background-color: black;
+	left: 0;
+	bottom: -2px;
+	transition: width 0.3s ease-in-out;
+  }
+  
+  .ra:hover::after {
+	width: 100%;
+  }
+  
+
+.art{
+	width: 100%; 
+	border-radius:20px; 
+	height:80vh;
 }
+.art1{
+	line-height: 72px;
+}
+
+
+.h{
+	line-height: 1 !important;
+}
+
 .f1{
 	font-size: 65px;
 }
@@ -61,10 +95,12 @@ body{
 	text-transform: capitalize;
 	font-size: 50px;
 	font-weight: 100;
+	
 }
+
 .heading1{
 	text-transform: capitalize;
-	font-size: 25px;
+	font-size: 24px;
 	font-weight: 100;
 }
 .psize{
@@ -77,9 +113,12 @@ body{
     height: 5vh;
     background-color: black;
     color: white !important;
+	display: flex !important;
+	align-items: center !important;
     text-align: center;
+	justify-content: center !important;
     font-weight: 500;
-    padding: 9px 12px 10px 12px;
+    /* padding: 5px 12px 10px 12px; */
     font-size: 15px;
     font-family: Dosis, sans-serif;
     border-radius: 6px;
@@ -88,6 +127,7 @@ body{
     outline: 5px solid transparent; /* initial state */
     outline-offset: 2px; /* gap */
     transition: outline-color 0.3s ease-in-out; /* smooth transition */
+	width:100px;
 }
 
 .black:hover {
@@ -101,7 +141,7 @@ body{
     color: black !important;
     text-align: center;
     font-weight: 500;
-	padding: 9px 12px 10px 12px;
+	padding: 7px 12px 10px 12px;
     font-size: 15px;
     font-family: Dosis, sans-serif;
     border-radius: 6px;
@@ -226,7 +266,7 @@ body{
   
   @keyframes moveBuildingImage {
 	0% {
-	  transform: translateX(3%); /* Start at the left edge */
+	  transform: translateX(0%); /* Start at the left edge */
 	}
 	100% {
 	  transform: translateX(-10%); /* Move to the left, revealing the hidden part */
@@ -234,7 +274,12 @@ body{
   }
   
 
-.text1 {
+.text1 {     
+
+
+
+
+	
     position: absolute;
     top: 8%;
     left: 53px;
@@ -315,7 +360,7 @@ body{
 	background-color: white;
 	color: black;
 	width: 95%;
-	height: 40vh;
+	height: 42vh;
 	padding-top: 46px;
 	padding-bottom: 23px;
 }
@@ -333,7 +378,7 @@ body{
 
  .ibox{
 
-	height: 76vh;
+	/* height: 76vh; */
 	 width: 32%;
 }
 
@@ -345,6 +390,9 @@ body{
     background-color: transparent;
     color: inherit;
     transition: background-color 0.3s ease-in, color 0.3s ease-in;
+	font-size: 40px;
+	width: 70%;
+	 margin-top:-12px
 }
 
 .wbox:hover .no {
@@ -373,13 +421,24 @@ body{
 }
 
 .sb{
-	height: 6vh;
-	padding: 10px 8px 19px 8px; 
-	margin-left: 5px;
+	height: 7vh;
+    /* padding: 12px 8px 19px 8px; */
+    margin-left: 6px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-width: 100px;
+
 }
 
 /*==== main============ */
 
+/* article */
+.aheading{
+	font-size: 21px;
+    font-weight: 500;
+}
+/* article */
 
 
 
@@ -541,7 +600,7 @@ body{
 	z-index: 99;
 	opacity: 0;
 	visibility: hidden;
-	background: #fff;
+	/* background: #fff; */
 	box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 	transition: 0.3s;
 }
@@ -600,7 +659,7 @@ body{
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-	color: #0f394c;
+	color: black;
 	font-size: 28px;
 	cursor: pointer;
 	display: none;
@@ -629,10 +688,12 @@ body{
 	right: 0;
 	left: 0;
 	bottom: 0;
-	background: rgba(7, 25, 33, 0.9);
+	background: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(10px); /* Blur effect */
+    -webkit-backdrop-filter: blur(10px); /* Blur effect for Safari */
 	transition: 0.3s;
 	z-index: 999;
-	height: 48vh;
+	height: 100vh;
 }
 
 .navbar-mobile .mobile-nav-toggle {
@@ -649,7 +710,7 @@ body{
 	bottom: 15px;
 	left: 15px;
 	padding: 10px 0;
-	background-color: #fff;
+	/* background-color: #fff; */
 	overflow-y: auto;
 	transition: 0.3s;
 }
@@ -657,14 +718,14 @@ body{
 .navbar-mobile a,
 .navbar-mobile a:focus {
 	padding: 10px 20px;
-	font-size: 15px;
-	color: #0f394c;
+	font-size: 17px;
+	/* color: #0f394c; */
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-	color: #0f394c;
+	color: black;
 }
 
 .navbar-mobile .getstarted,
@@ -800,6 +861,10 @@ section {
 }
 .noTop {
 	padding: 0 0 60px 0;
+	overflow: hidden;
+}
+.noBottom {
+	padding: 100px 0 0 0;
 	overflow: hidden;
 }
 

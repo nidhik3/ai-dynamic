@@ -21,11 +21,15 @@
                 <li><a class="nav-link fs scrollto " href="">Blogs</a></li>
                 <li><a class="nav-link fs scrollto" href="">Pricing</a></li>
                 <li><a class="nav-link fs scrollto" href="">About</a></li>
-                <li><a class="nav-link fs scrollto" href="">Contact</a></li>
+                <li><a class="nav-link fs scrollto" href="Contact">Contact</a></li>
               </ul>
             </div>
         </div>
     </div>
+
+
+
+    
 
 </section>
 

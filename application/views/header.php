@@ -58,7 +58,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between md-pl-5">
 
-      <a href="Main font" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid">
+      <a href="Main" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid">
         ENCOME</a>
 
   
@@ -70,11 +70,11 @@
           <li><a class="nav-link scrollto active" href="Main">Home</a></li>
           <li><a class="nav-link scrollto" href="">Solutions</a></li>
           <li><a class="nav-link scrollto" href="">Cases</a></li>
-          <li><a class="nav-link scrollto " href="">Blogs</a></li>
+          <li><a class="nav-link scrollto " href="Article1">Blogs</a></li>
           <li><a class="nav-link scrollto" href="">Pricing</a></li>
           <li><a class="nav-link scrollto" href="">About</a></li>
-          <li><a class="nav-link scrollto" href="">Contact</a></li>
-          <li><a class="nav-link scrollto " href="">Buy template</a></li>
+          <li><a class="nav-link scrollto" href="Contact">Contact</a></li>
+          <!-- <li><a class="nav-link scrollto " href="">Buy template</a></li> -->
 
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
